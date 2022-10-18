@@ -7,6 +7,11 @@
 .navbar-light .navbar-nav .nav-link {
   color: rgba(0, 0, 0);
 }
+.navbar-brand{
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: purple;
+}
 .hero-img {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("../assets/hero.jpg");
